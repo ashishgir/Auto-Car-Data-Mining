@@ -18,7 +18,7 @@ The main purpose of this project is to become familiar with data mining techniqu
 
 As an autonomous vehicle for this project, we are going to use "Smart Video Car Kit V2.0 for Raspberry Pi" as below:
 
-Model: Sunfounder Smart Video Car Kit V2.0 for Raspberry Pi
+Model: Sunfounder Smart Video Car Kit V2.0 for Raspberry Pi <br>
 Name in this project: DM-Car
 URL: https://www.sunfounder.com/smart-video-car-kit-v2-0.html
 
