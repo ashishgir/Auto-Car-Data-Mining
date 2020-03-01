@@ -22,4 +22,4 @@ Model: Sunfounder Smart Video Car Kit V2.0 for Raspberry Pi <br>
 Name in this project: DM-Car <br>
 URL: https://www.sunfounder.com/smart-video-car-kit-v2-0.html
 
-<img src="Images/1.jpg" height="10" width="10">
+<img src="Images/1.jpg" height="40" width="40"> <img src="Images/2.jpg" height="40" width="40"> <img src="Images/3.jpg" height="40" width="40"> <img src="Images/4.jpg" height="40" width="40">
