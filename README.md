@@ -30,3 +30,36 @@ URL: https://www.sunfounder.com/smart-video-car-kit-v2-0.html
 <br> <img src="Images/21.jpg" height="150" width="150"> <img src="Images/22.jpg" height="150" width="150"> <img src="Images/23.jpg" height="150" width="150">
 <br>
 
+
+
+# This project has the following requirements:
+Understanding Data Mining Techniques and Deep Learning
+Become familiar with Python, Keras, Tensorflow and OpenCV
+Gain experience with research on autonomous vehicle and data mining
+To do this we built a raspberry pi powered car with a trained deep learning model to recognise and respond to up to 6 traffic signs. In addition, the car should also be capable of lane detection and not stray outside of the lanes.
+
+# Q: Car Improvement suggestions:
+Better supplied instructions. Diagrams are poor quality and mistakes were evident in the text.
+Not putting hdmi port behind servo
+Would prefer more sturdy materials or at least replacement plastic boards.
+Different wheels for better traction on different surfaces.
+There should be a protective shell on the car to protect sensitive boards.
+Battery placement on the bottom and held in with a ribbon does not seem the best idea. Perhaps a case with a firm fastened lid.
+Some sort of battery sensor would be nice to know when the batteries are low.
+
+# Phase 2: Download Programs and Configuration
+In this project, we are going to use Raspberry Pi 3 model B+ to control servos using Python.
+The car has the following functionalities:
+
+1. Straight lane detection
+2. Controlling back wheel servos
+3. Controlling front wheel servos
+4. Camera module
+5. PID Control
+6. Creating Video Clip
+
+<img src="Images/24.jpg" height="250" width="250"> <img src="Images/25.jpg" height="250" width="250"><br>
+
+# Q: Improvement suggestions for connectitvity:
+A: A wifi direct option would be preferrable as latency in the router is not great.
+Can possibly be achieved by using dnsmasq and may help improve image reliability for person using the car.
