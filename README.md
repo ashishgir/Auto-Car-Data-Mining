@@ -63,3 +63,9 @@ The car has the following functionalities:
 # Q: Improvement suggestions for connectitvity:
 A: A wifi direct option would be preferrable as latency in the router is not great.
 Can possibly be achieved by using dnsmasq and may help improve image reliability for person using the car.
+
+# DM-Car has 3 PCB as below: 
+• Robot HATS: Connecting Raspberry Pi into controllers 
+• PCA 9685 PWM Driver: controlling 1 servos for front steering wheel and 2 servos for pan and tilt of a camera 
+• TB6612 Motor Driver: controlling 2 servos for back wheels 
+
